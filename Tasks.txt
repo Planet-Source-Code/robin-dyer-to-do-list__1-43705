@@ -1,0 +1,13 @@
+[VALIDPRIORITY]
+Groups=(All),Low,Medium,High
+[VALIDREQUEST]
+Groups=(All)
+[VALIDSTATUS]
+Groups=(All),Not Started,In Progress,Completed,On Hold,Deferred,On Going
+[POSITION]
+Left=1800
+Top=2775
+Width=10605
+Height=7155
+[TASKLIST]
+Num=0
