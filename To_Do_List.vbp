@@ -1,0 +1,68 @@
+Type=Exe
+Form=frmMain.frm
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\WINNT\System32\stdole2.tlb#OLE Automation
+Object={5E9E78A0-531B-11CF-91F6-C2863C385E30}#1.0#0; msflxgrd.ocx
+Module=Module1; Module1.bas
+Form=frmEditData.frm
+IconForm="frmMain"
+Startup="frmMain"
+HelpFile=""
+Title="To_Do_List"
+ExeName32="To_Do_List.exe"
+Command32=""
+Name="To_Do_List"
+HelpContextID="0"
+CompatibleMode="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
+VersionCompanyName="City of Riverside"
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=0
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+
+[MS Transaction Server]
+AutoRefresh=1
+
+[TaskList]
+Num=4
+
+[TASK1]
+Description=Task1
+Status=0
+Priority=1
+AssignedTo=Robin
+Comment=Hello
+
+[TASK2]
+Description=Task3
+Status=0
+Priority=2
+AssignedTo=George
+
+[TASK3]
+Description=Task4
+Status=0
+Priority=0
+AssignedTo=Brian
+
+[TASK4]
+Description=This is a long description of a new task
+Status=0
+Priority=1
+AssignedTo=Robin
+Comment=Testing
